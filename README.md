@@ -4,20 +4,20 @@
 
 - [@wasanalmalki](https://github.com/wasanalmalki)
 
--[@anismenguellati](https://github.com/wasanalmalki)
+- [@anismenguellati](https://github.com/wasanalmalki)
 
 
-# Voici notre projet de Web Technology! 👋
+# Our Web Technology Project! 👋
 ![Logo](https://user-images.githubusercontent.com/115075351/209720478-0ab44163-49f6-4dfd-a51e-0091cf9ede44.png)
 
-# Blogging application - ECE Webtech project
+                                       #### ECE Webtech project
 
-*presentation, introduction, ...*
+
 
 ## Production 
 
 - Vercel URL: https://ece-webtech-mekhoukhe-menguellati-almalki.vercel.app/
-- Supabase project URL: https://app.supabase.com/project/...
+- Supabase project URL: https://app.supabase.com/project/rtbulxktyhqogarzgwhv
 
 ## Usage
 
@@ -71,7 +71,7 @@
 * New comment creation   
   *Refresh page after creation: 10/10*
 * Resource access control   
-  *7/10*
+  * Only authenticated users can create articles and comments. A user must only gain access to the articles or comments he created. The APIs must return the appropriate lists of article for the authenticated user, so 7/10*
 * Article modification   
   *user can modify his article: 10/10*
 * Article removal   
@@ -81,12 +81,7 @@
 * Comment removal   
   *user can remove his comment: 10/10*
 * Account settings   
-  *good: 10/10*
-* WYSIWYG integration   
-  *place your graduation and comments*
+  *Done! 10/10*
 * Gravatar integration   
-  *Done: 10/10*
-* Light/dark theme   
-  *place your graduation and comments*
-* Accent color selection   
-  *place your graduation and comments*
+  *Done! 10/10*
+
