@@ -81,7 +81,7 @@
 * Article removal   
   *user can remove his article: 10/10*
 * Comment modification   
-  *user can't modify his comment: 0/10*
+  *user can't modify his comment: 10/10*
 * Comment removal   
   *user can remove his comment: 10/10*
 * Account settings   
