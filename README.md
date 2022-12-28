@@ -10,7 +10,9 @@
 # Our Web Technology Project! 👋
 ![Logo](https://user-images.githubusercontent.com/115075351/209720478-0ab44163-49f6-4dfd-a51e-0091cf9ede44.png)
 
-                                       #### ECE Webtech project
+                                                 **ECE Webtech project**
+                                                 
+![Logo](https://user-images.githubusercontent.com/115075351/209866524-0764106d-6767-4e3b-a6f6-2261d5bab0a0.PNG)
 
 
 
@@ -49,6 +51,8 @@
 
 * Project structure   
   *Template has been respected, so 10/10*
+  
+  ![Logo](https://user-images.githubusercontent.com/115075351/209866721-c5ee8154-e197-4bcf-9f1e-df08dda03d71.png)
 
 * Git   
   *We pushed the code into github private project. so 10/10*
