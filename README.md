@@ -77,7 +77,7 @@
 * Resource access control   
   * Only authenticated users can create articles and comments. A user must only gain access to the articles or comments he created. The APIs must return the appropriate lists of article for the authenticated user, so 7/10*
 * Article modification   
-  *user can modify his article: 10/10*
+  *user can modify his article: 0/10*
 * Article removal   
   *user can remove his article: 10/10*
 * Comment modification   
