@@ -21,26 +21,6 @@
 - Vercel URL: https://ece-webtech-mekhoukhe-menguellati-almalki.vercel.app/
 - Supabase project URL: https://app.supabase.com/project/rtbulxktyhqogarzgwhv
 
-## Usage
-
-* Clone this repository, from your local machine:
-  ```
-  git clone ...
-  cd application
-  ```
-* Start the the application
-  ```bash
-  # Install dependencies (use yarn or npm)
-  npm install
-  npm run build
-  npm start
-  ```
-* Start Supabase
-  ```bash
-  cd supabase
-  docker compose up ...
-  ```
-
 
 ## Tasks
   
