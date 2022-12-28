@@ -1,34 +1,92 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Authors
 
-## Getting Started
+- [@saramekhoukhe](https://github.com/saramekhoukhe)
 
-First, run the development server:
+- [@wasanalmalki](https://github.com/wasanalmalki)
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+-[@anismenguellati](https://github.com/wasanalmalki)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+# Voici notre projet de Web Technology! 👋
+![Logo](https://user-images.githubusercontent.com/115075351/209720478-0ab44163-49f6-4dfd-a51e-0091cf9ede44.png)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+# Blogging application - ECE Webtech project
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+*presentation, introduction, ...*
 
-## Learn More
+## Production 
 
-To learn more about Next.js, take a look at the following resources:
+- Vercel URL: https://ece-webtech-mekhoukhe-menguellati-almalki.vercel.app/
+- Supabase project URL: https://app.supabase.com/project/...
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Usage
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+* Clone this repository, from your local machine:
+  ```
+  git clone ...
+  cd application
+  ```
+* Start the the application
+  ```bash
+  # Install dependencies (use yarn or npm)
+  npm install
+  npm run build
+  npm start
+  ```
+* Start Supabase
+  ```bash
+  cd supabase
+  docker compose up ...
+  ```
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Tasks
+  
+**Project management:**
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+* Naming convention   
+  *We had respected the naming convention, so 10/10*
+
+* Project structure   
+  *Template has been respected, so 10/10*
+
+* Git   
+  *We pushed the code into github private project. so 10/10*
+
+* Code quality   
+  *We cleaned up the code, we tried to generelized the maximum, so 8/10*
+
+* Design, UX, and content   
+  *We used Tailwind with some personalized classes, so 7/10*
+
+**Application development:**
+
+* Home page   
+  *10/10: logo with some links to various pages*
+
+* Login and profile page   
+  *sign up and login up and redirect to profile page where we can update or log out. We used avatars too: 9/10*
+* New articles creation   
+  *Add new article: 10/10*
+* New comment creation   
+  *Refresh page after creation: 10/10*
+* Resource access control   
+  *7/10*
+* Article modification   
+  *user can modify his article: 10/10*
+* Article removal   
+  *user can remove his article: 10/10*
+* Comment modification   
+  *user can't modify his comment: 0/10*
+* Comment removal   
+  *user can remove his comment: 10/10*
+* Account settings   
+  *good: 10/10*
+* WYSIWYG integration   
+  *place your graduation and comments*
+* Gravatar integration   
+  *Done: 10/10*
+* Light/dark theme   
+  *place your graduation and comments*
+* Accent color selection   
+  *place your graduation and comments*
