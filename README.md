@@ -55,7 +55,7 @@
 * New comment creation   
   *Refresh page after creation: 10/10*
 * Resource access control   
-  * Only authenticated users can create articles and comments. A user must only gain access to the articles or comments he created. The APIs must return the appropriate lists of article for the authenticated user, so 7/10*
+  * Only authenticated users can create articles and comments. A user can only access to the articles he created. The APIs return the appropriate lists of article for the authenticated user, so 7/10*
 * Article modification   
   *user can modify his article: 10/10*
 * Article removal   
