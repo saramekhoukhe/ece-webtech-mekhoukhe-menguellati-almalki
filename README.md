@@ -66,7 +66,7 @@
 **Application development:**
 
 * Home page   
-  *10/10: logo with some links to various pages*
+  * logo with some links to various pages: 10/10*
 
 * Login and profile page   
   *sign up and login up and redirect to profile page where we can update or log out. We used avatars too: 9/10*
