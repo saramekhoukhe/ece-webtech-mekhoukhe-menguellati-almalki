@@ -18,7 +18,7 @@
 
 ## Production 
 
-- Vercel URL: https://ece-webtech-mekhoukhe-menguellati-almalki.vercel.app/
+- Vercel URL: https://ece-webtech-next-js.vercel.app/
 - Supabase project URL: https://app.supabase.com/project/rtbulxktyhqogarzgwhv
 
 
