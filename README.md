@@ -1,4 +1,5 @@
-## Authors
+![logo](https://jobservice.ece.fr/img/Partenaires/ECE_PARISLYON.png)
+## Authors ✍️
 
 - [@saramekhoukhe](https://github.com/saramekhoukhe)
 
@@ -8,7 +9,7 @@
 
 
 # Our Web Technology Project! 👋
-![Logo](https://user-images.githubusercontent.com/115075351/209720478-0ab44163-49f6-4dfd-a51e-0091cf9ede44.png)
+![Logo](https://logodix.com/logo/1065352.png)
 
                                                  **ECE Webtech project**
                                                  
