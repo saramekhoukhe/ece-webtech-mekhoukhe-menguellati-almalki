@@ -43,7 +43,7 @@
 * Design, UX, and content   
   *We used Tailwind with some personalized classes, so 7/10*
 
-**Application development:**
+**Application development:** 📥
 
 * Home page   
   * logo with some links to various pages: 10/10*
