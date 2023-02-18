@@ -11,19 +11,18 @@
 # Our Web Technology Project! 👋
 ![Logo](https://logodix.com/logo/1065352.png)
 
-                                                 **ECE Webtech project**
+                                                     **ECE Webtech project**
                                                  
 ![Logo](https://user-images.githubusercontent.com/115075351/209866524-0764106d-6767-4e3b-a6f6-2261d5bab0a0.PNG)
 
 
 
-## Production 
+## Production ⚙️
 
 - Vercel URL: https://ece-webtech-next-js.vercel.app/
 - Supabase project URL: https://app.supabase.com/project/rtbulxktyhqogarzgwhv
 
-
-## Tasks
+## Tasks 📜
   
 **Project management:**
 
